@@ -43,6 +43,19 @@ public class Main {
     System.out.println(myNum);  
   }
 }
+ for tile in {1159..1160}
+        do wget --limit-rate=3m http://daymetpublic class Main {
+  public static void main(String[] args) {
+    int myNum = 100000;
+    System.out.println(myNum);  
+  }
+}public class Main {
+  public static void main(String[] args) {
+    int myNum = 100000;
+    System.out.println(myNum);  
+  }
+}.ornl.gov/thredds/fileServer/allcf/${year}/${tile}_${year}/vp.nc -O ${tile}_${year}_vp.nc
+        # An example using cur
 if [ $ret -ne 0 ]; then
 exit $ret
 fi
